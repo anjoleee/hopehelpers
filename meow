@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>HopeHelpers</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #FFF7FA;
+        margin: 0;
+        padding: 0;
+        color: #444;
+    }
+    header {
+        background-color: #FADDEA;
+        padding: 30px;
+        text-align: center;
+        font-size: 2.2em;
+        color: #6E5A7E;
+    }
+    section {
+        padding: 40px;
+        max-width: 900px;
+        margin: auto;
+    }
+    h2 {
+        color: #A888C8;
+    }
+    .card {
+        background-color: #FFF1F7;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 20px 0;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    footer {
+        background-color: #FADDEA;
+        padding: 20px;
+        text-align: center;
+        color: #6E5A7E;
+        margin-top: 40px;
+    }
+</style>
+</head>
+<body>
+<header>HopeHelpers</header>
+<section>
+    <h2>Our Mission</h2>
+    <div class="card">
+        <p>HopeHelpers is a compassionate organization dedicated to bringing joy and encouragement to children in hospitals through heartfelt handwritten letters. We believe that even the smallest message of hope can brighten a child's day.</p>
+    </div>
+
+    <h2>How It Works</h2>
+    <div class="card">
+        <ul>
+            <li>Volunteers write letters filled with love, positivity, and support.</li>
+            <li>We collect, review, and deliver these letters to kids in partner hospitals.</li>
+            <li>Children receive messages that remind them they are strong, brave, and never alone.</li>
+        </ul>
+    </div>
+
+    <h2>Get Involved</h2>
+    <div class="card">
+        <p>Join us in spreading hope! Whether you want to write letters, donate supplies, or help us expand, your support makes a difference.</p>
+    </div>
+
+    <h2>Contact Us</h2>
+    <div class="card">
+        <p><strong>Instagram:</strong> @hopehelpersvolunteers</p>
+        <p><strong>Email Letters To:</strong> hopehelpvol@yahoo.com</p>
+    </div>
+</section>
+<footer>&copy; 2025 HopeHelpers — Spreading light, one letter at a time.</footer>
+</body>
+</html>
